@@ -1,11 +1,5 @@
 // const getData = ()=>{
-//     const resp = fetch ("https://youtube138.p.rapidapi.com/v2/trending",{
-//         headers:{
-//             "x-rapidapi-key":"6af29bb447msh829d1dacc26f9a8p160f2ajsna09edf79311c",
-
-//             "x-rapidapi-host":"youtube138.p.rapidapi.com"
-//         }
-//     })
+//     const resp = fetch ("ENTER YOUR API");
 //     resp.then((res)=>{
 //         const pr2 = res.json();
 //         pr2.then((data)=>{
